@@ -1,0 +1,9 @@
+[user]
+	name = 91-shiraz
+	email = sheerazshaikh965@gmail.com
+[init]
+	defaultBranch = main
+[core]
+	editor = nano
+[pull]
+	rebase = false
